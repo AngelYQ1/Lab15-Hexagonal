@@ -1,0 +1,25 @@
+﻿services:
+  lab11-angelyucra:
+    image: lab11-angelyucra
+    build:
+      context: .
+      dockerfile: Lab11-AngelYucra/Dockerfile
+
+  lab11-angelyucra.application:
+    image: lab11-angelyucra.application
+    build:
+      context: .
+      dockerfile: Lab11-AngelYucra.Application/Dockerfile
+
+  lab11-angelyucra.domain:
+    image: lab11-angelyucra.domain
+    build:
+      context: .
+      dockerfile: Lab11-AngelYucra.Domain/Dockerfile
+
+  lab11-angelyucra.infrastructure:
+    image: lab11-angelyucra.infrastructure
+    build:
+      context: .
+      dockerfile: Lab11-AngelYucra.Infrastructure/Dockerfile
+
