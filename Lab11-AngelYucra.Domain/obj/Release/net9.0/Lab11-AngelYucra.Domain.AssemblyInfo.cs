@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab11-AngelYucra.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+427357f29c58f562aff0a00bf8135cbb0df4085c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a9e68e3534865ac2046a9d1ac0a7c4e75ed08a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab11-AngelYucra.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab11-AngelYucra.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
