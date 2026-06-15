@@ -1,0 +1,16 @@
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Application\bin\Release\net9.0\Lab11-AngelYucra.Application.deps.json
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Application\bin\Release\net9.0\Lab11-AngelYucra.Application.dll
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Application\bin\Release\net9.0\Lab11-AngelYucra.Application.pdb
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Application\bin\Release\net9.0\Lab11-AngelYucra.Domain.dll
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Application\bin\Release\net9.0\Lab11-AngelYucra.Domain.pdb
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Application\obj\Release\net9.0\Lab11-AngelYucra.Application.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Application\obj\Release\net9.0\Lab11-AngelYucra.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Application\obj\Release\net9.0\Lab11-AngelYucra.Application.AssemblyInfoInputs.cache
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Application\obj\Release\net9.0\Lab11-AngelYucra.Application.AssemblyInfo.cs
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Application\obj\Release\net9.0\Lab11-AngelYucra.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Application\obj\Release\net9.0\Lab11-AngelYucra.Application.sourcelink.json
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Application\obj\Release\net9.0\Lab11-An.AC7272F3.Up2Date
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Application\obj\Release\net9.0\Lab11-AngelYucra.Application.dll
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Application\obj\Release\net9.0\refint\Lab11-AngelYucra.Application.dll
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Application\obj\Release\net9.0\Lab11-AngelYucra.Application.pdb
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Application\obj\Release\net9.0\ref\Lab11-AngelYucra.Application.dll

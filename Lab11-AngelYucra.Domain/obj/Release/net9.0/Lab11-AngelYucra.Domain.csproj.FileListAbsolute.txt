@@ -1,0 +1,12 @@
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Domain\bin\Release\net9.0\Lab11-AngelYucra.Domain.deps.json
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Domain\bin\Release\net9.0\Lab11-AngelYucra.Domain.dll
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Domain\bin\Release\net9.0\Lab11-AngelYucra.Domain.pdb
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Domain\obj\Release\net9.0\Lab11-AngelYucra.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Domain\obj\Release\net9.0\Lab11-AngelYucra.Domain.AssemblyInfoInputs.cache
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Domain\obj\Release\net9.0\Lab11-AngelYucra.Domain.AssemblyInfo.cs
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Domain\obj\Release\net9.0\Lab11-AngelYucra.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Domain\obj\Release\net9.0\Lab11-AngelYucra.Domain.sourcelink.json
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Domain\obj\Release\net9.0\Lab11-AngelYucra.Domain.dll
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Domain\obj\Release\net9.0\refint\Lab11-AngelYucra.Domain.dll
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Domain\obj\Release\net9.0\Lab11-AngelYucra.Domain.pdb
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra.Domain\obj\Release\net9.0\ref\Lab11-AngelYucra.Domain.dll

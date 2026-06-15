@@ -1,0 +1,6 @@
+@Lab11_AngelYucra_HostAddress = http://localhost:5115
+
+GET {{Lab11_AngelYucra_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
