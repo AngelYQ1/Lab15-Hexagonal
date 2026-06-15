@@ -16,9 +16,7 @@ public static class InfrastructureServicesExtensions
                                ?? throw new InvalidOperationException("DefaultConnection is not configured.");
 
         services.AddDbContext<TicketeraDbContext>(options =>
-            options.UseMySql(
-                connectionString,
-                new MySqlServerVersion(new Version(8, 0, 36))));
+            options.UseNpgsql(connectionString));
 
         services.AddScoped<IUnitOfWork, UnitOfWork>();
         services.AddScoped<IAuthService, AuthService>();
