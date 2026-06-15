@@ -41,8 +41,6 @@ C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra\bin\Release\net9.0
 C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra\bin\Release\net9.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra\bin\Release\net9.0\Microsoft.OpenApi.dll
 C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra\bin\Release\net9.0\Mono.TextTemplating.dll
-C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra\bin\Release\net9.0\MySqlConnector.dll
-C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra\bin\Release\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra\bin\Release\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra\bin\Release\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra\bin\Release\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -148,3 +146,5 @@ C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra\obj\Release\net9.0
 C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra\obj\Release\net9.0\Lab11-AngelYucra.pdb
 C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra\obj\Release\net9.0\Lab11-AngelYucra.genruntimeconfig.cache
 C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra\obj\Release\net9.0\ref\Lab11-AngelYucra.dll
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra\bin\Release\net9.0\Npgsql.dll
+C:\Users\Dell\RiderProjects\Lab11-AngelYucra\Lab11-AngelYucra\bin\Release\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
