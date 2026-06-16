@@ -1,10 +1,10 @@
-namespace Lab11_AngelYucra.Domain.Models;
+﻿namespace Lab11_AngelYucra.Domain.Models;
 
 public class User
 {
-    public string UserId { get; set; } = default!;
-    public string Username { get; set; } = default!;
-    public string PasswordHash { get; set; } = default!;
+    public string UserId { get; set; } = null!;
+    public string Username { get; set; } = null!;
+    public string PasswordHash { get; set; } = null!;
     public string? Email { get; set; }
     public DateTime CreatedAt { get; set; }
     public ICollection<Ticket> Tickets { get; set; } = new List<Ticket>();

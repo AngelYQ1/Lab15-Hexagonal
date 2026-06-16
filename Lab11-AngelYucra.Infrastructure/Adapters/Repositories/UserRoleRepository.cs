@@ -1,3 +1,4 @@
+using Lab11_AngelYucra.Domain;
 using Lab11_AngelYucra.Domain.Models;
 using Lab11_AngelYucra.Domain.Ports.IRepositories;
 using Microsoft.EntityFrameworkCore;

@@ -1,4 +1,4 @@
-using Lab11_AngelYucra.Domain.Models;
+﻿using Lab11_AngelYucra.Domain.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace Lab11_AngelYucra.Infrastructure;
@@ -43,10 +43,7 @@ public class TicketeraDbContext(DbContextOptions<TicketeraDbContext> options) : 
             entity.Property(item => item.UserId).HasColumnName("user_id").HasMaxLength(36).IsRequired();
             entity.Property(item => item.Title).HasColumnName("title").HasMaxLength(255).IsRequired();
             entity.Property(item => item.Description).HasColumnName("description");
-            entity.Property(item => item.Status)
-                .HasColumnName("status")
-                .HasColumnType("enum('abierto','en_proceso','cerrado')")
-                .IsRequired();
+            entity.Property(item => item.Status).HasColumnName("status").HasMaxLength(20).IsRequired();
             entity.Property(item => item.CreatedAt).HasColumnName("created_at");
             entity.Property(item => item.ClosedAt).HasColumnName("closed_at");
             entity.HasOne(item => item.User)
